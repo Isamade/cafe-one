@@ -43,7 +43,7 @@ const Partnership = () => {
                 className="w-full max-w-lg mx-auto"
               />*/}
               <img 
-                src="/images/buttermilk-pancakes.jpg?auto=compress&cs=tinysrgb&w=600" 
+                src="src/assets/buttermilk-pancakes.jpg?auto=compress&cs=tinysrgb&w=600" 
                 alt="Fresh buttermilk pancakes with coffee splash"
                 className="w-full max-w-lg mx-auto"
               />           
