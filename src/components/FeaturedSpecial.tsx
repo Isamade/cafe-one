@@ -43,7 +43,7 @@ const FeaturedSpecial = () => {
               <div className="text-center space-y-6">
                 <div className="w-32 h-32 mx-auto bg-white rounded-full flex items-center justify-center shadow-lg">
                   <img 
-                    src="src/assets/latte-small.jpg?auto=compress&cs=tinysrgb&w=600" 
+                    src="/assets/latte-small.jpg?auto=compress&cs=tinysrgb&w=600" 
                     alt="Signature Latte with beautiful latte art"
                     className="w-28 h-28 rounded-full object-cover"
                   />
