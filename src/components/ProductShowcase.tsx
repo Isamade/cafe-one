@@ -24,7 +24,7 @@ const ProductShowcase = () => {
               />
             </div>
             {/* Decorative coffee bean */}
-            <div className="absolute bottom-0 right-0 transform translate-x-4 translate-y-4">
+            <div className="absolute bottom-0 right-0 transform translate-x-4 translate-y-4 z-20">
               <img 
                 src="/coffee_beans.jpg?auto=compress&cs=tinysrgb&w=600" 
                 alt="Coffee bean"
