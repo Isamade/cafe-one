@@ -3,22 +3,22 @@ import React from 'react';
 const Gallery = () => {
   const galleryImages = [
     {
-      src: '/assets/coffee-cup.webp?auto=compress&cs=tinysrgb&w=600',
+      src: '/coffee-cup.webp?auto=compress&cs=tinysrgb&w=600',
       alt: 'Perfect latte art',
       category: 'Coffee'
     },
     {
-      src: '/assets/black-unity.jpg?auto=compress&cs=tinysrgb&w=600',
+      src: '/black-unity.jpg?auto=compress&cs=tinysrgb&w=600',
       alt: 'Cozy café interior',
       category: 'Ambiance'
     },
     {
-      src: '/assets/cinnamon-rolls.jpg?auto=compress&cs=tinysrgb&w=600',
+      src: '/cinnamon-rolls.jpg?auto=compress&cs=tinysrgb&w=600',
       alt: 'Fresh pastries',
       category: 'Food'
     },
     {
-      src: '/assets/sandwich.jpg?auto=compress&cs=tinysrgb&w=600',
+      src: '/sandwich.jpg?auto=compress&cs=tinysrgb&w=600',
       alt: 'Gourmet sandwich',
       category: 'Food'
     },

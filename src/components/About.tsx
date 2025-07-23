@@ -74,7 +74,7 @@ const About = () => {
           <div className="relative">
             <div className="relative z-10">
               <img 
-                src="/assets/black-unity.jpg?auto=compress&cs=tinysrgb&w=600" 
+                src="/black-unity.jpg?auto=compress&cs=tinysrgb&w=600" 
                 alt="Community gathering at the café"
                 className="w-full rounded-2xl shadow-2xl"
               />
