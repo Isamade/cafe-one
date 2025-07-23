@@ -18,7 +18,7 @@ const ProductShowcase = () => {
           <div className="relative">
             <div className="relative z-10">
               <img 
-                src="https://images.pexels.com/photos/4226796/pexels-photo-4226796.jpeg?auto=compress&cs=tinysrgb&w=600" 
+                src="https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=800" 
                 alt="Premium coffee bag with coffee beans"
                 className="w-full max-w-md mx-auto"
               />
@@ -26,7 +26,7 @@ const ProductShowcase = () => {
             {/* Decorative coffee bean */}
             <div className="absolute bottom-0 right-0 transform translate-x-4 translate-y-4">
               <img 
-                src="https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=100" 
+                src="/coffee_beans.jpg?auto=compress&cs=tinysrgb&w=600" 
                 alt="Coffee bean"
                 className="w-16 h-16 rounded-full object-cover opacity-80"
               />

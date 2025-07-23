@@ -34,8 +34,8 @@ const Footer = () => {
             </div>
 
             <p className="text-amber-200 text-sm">
-              <strong>Open Monday - Friday</strong><br />
-              6am - 8pm
+              <strong>Open Monday - Saturday</strong><br />
+              8am - 5pm
             </p>
           </div>
 

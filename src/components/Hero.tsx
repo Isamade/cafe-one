@@ -31,7 +31,7 @@ const Hero = () => {
 
             <div className="flex items-center space-x-2 text-gray-800">
               <Clock className="w-5 h-5 text-amber-800" />
-              <span className="font-medium">Open 6am – 8pm Monday-Friday</span>
+              <span className="font-medium">Open 8am – 5pm Monday-Saturday</span>
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
