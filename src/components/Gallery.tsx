@@ -3,34 +3,34 @@ import React from 'react';
 const Gallery = () => {
   const galleryImages = [
     {
-      src: '/coffee-cup.webp?auto=compress&cs=tinysrgb&w=600',
+      src: '/coffee_cup.jpg?auto=compress&cs=tinysrgb&w=600',
       alt: 'Perfect latte art',
       category: 'Coffee'
     },
     {
-      src: '/black-unity.jpg?auto=compress&cs=tinysrgb&w=600',
+      src: '/tin_city2.jpg?auto=compress&cs=tinysrgb&w=600',
       alt: 'Cozy café interior',
       category: 'Ambiance'
     },
     {
-      src: '/cinnamon-rolls.jpg?auto=compress&cs=tinysrgb&w=600',
+      src: '/bakery.jpg?auto=compress&cs=tinysrgb&w=600',
       alt: 'Fresh pastries',
       category: 'Food'
     },
     {
-      src: '/sandwich.jpg?auto=compress&cs=tinysrgb&w=600',
-      alt: 'Gourmet sandwich',
+      src: '/breakfast.jpg?auto=compress&cs=tinysrgb&w=600',
+      alt: 'Breakfast',
       category: 'Food'
     },
     {
-      src: 'https://images.pexels.com/photos/894695/pexels-photo-894695.jpeg?auto=compress&cs=tinysrgb&w=600',
-      alt: 'Coffee beans',
-      category: 'Coffee'
+      src: 'salad.jpg?auto=compress&cs=tinysrgb&w=600',
+      alt: 'Salads and soups',
+      category: 'Food',
     },
     {
-      src: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600',
-      alt: 'Fresh salad',
-      category: 'Food'
+      src: 'tin_city.jpg?auto=compress&cs=tinysrgb&w=600',
+      alt: 'Comfy seating area',
+      category: 'Ambiance'
     }
   ];
 

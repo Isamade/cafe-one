@@ -50,7 +50,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative z-10">
               <img 
-                src="https://images.pexels.com/photos/312418/pexels-photo-312418.jpeg?auto=compress&cs=tinysrgb&w=800" 
+                src="/coffee_cup2.jpg?auto=compress&cs=tinysrgb&w=800" 
                 alt="Perfect cup of coffee with latte art"
                 className="w-full max-w-lg mx-auto rounded-2xl shadow-2xl"
               />

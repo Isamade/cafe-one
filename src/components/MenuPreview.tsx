@@ -8,28 +8,28 @@ const MenuPreview = () => {
       title: 'Coffee & Beverages',
       description: 'Expressos, lattes, and more',
       items: ['Specialty Coffees', 'Fresh Juices', 'Teas', 'Soft Drinks'],
-      image: '/coffee-cup.webp'
+      image: '/coffee_cup.jpg'
     },
     {
       icon: Sandwich,
       title: 'Breakfast',
       description: 'Start your day right with our breakfast options',
       items: ['French Toast', 'Buttermilk Pancakes', 'Classic Breakfast', 'Breakfast Pizza'],
-      image: '/sandwich.jpg'
+      image: '/breakfast.jpg'
     },
     {
       icon: Cookie,
       title: 'Bakery Items',
       description: 'Handcrafted by our local bakery partner',
       items: ['Cinnaon Rolls', 'Challah', 'Snack Cakes', 'Coconut Buns'],
-      image: '/cinnamon-rolls.jpg'
+      image: '/bakery.jpg'
     },
     {
       icon: Salad,
-      title: 'Healthy Options',
+      title: 'Salads and Soups',
       description: 'Nutritious salads, bowls, and light bites',
-      items: ['Garden Salads', 'Grain Bowls', 'Fresh Fruit', 'Yogurt Parfaits'],
-      image: 'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=400'
+      items: ['House Chopped Salad', 'Tuna Salad', 'Soup and Salad', 'Roast Beef Salad'],
+      image: 'salad.jpg?auto=compress&cs=tinysrgb&w=400'
     }
   ];
 
